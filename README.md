@@ -1,6 +1,6 @@
 # Labelbox Scripts
 
-This repo contains a few exampels
+This repo contains tools for managing projects and datasets on Labelbox.
 
 ## Generating a Labelbox API Key
 
