@@ -1,0 +1,2 @@
+labelbox>=3.20
+pandas>=1.4
